@@ -1,0 +1,29 @@
+{
+  "details": [
+    {
+      "empName": "Rohit",
+      "empLocation": "BLR",
+      "empBank": "A"
+    },
+    {
+      "empName": "Anup",
+      "empLocation": "HYD",
+      "empBank": "B"
+    },
+    {
+      "empName": "Suman",
+      "empLocation": "BBSR",
+      "empBank": "C"
+    },
+    {
+      "empName": "",
+      "empLocation": "",
+      "empBank": "---Select---"
+    },
+    {
+      "empName": "",
+      "empLocation": "",
+      "empBank": "---Select---"
+    }
+  ]
+}
